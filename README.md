@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rohanmaiti" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=35&center=true&vCenter=true&width=900&height=70&duration=3700&lines=Hey+there!+👋;+I'm+Rohan+Maiti.;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=35&center=true&vCenter=true&width=900&height=70&duration=3700&lines=Hey+there!+👋;+I'm+Rajat+Mana;" />
 </h1>
 <h3 align="center">A passionate software developer from India</h3>
 <hr />
@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/raa.jjaatt/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
-  <a href="my-portfolio-ashen-rho-85.vercel.app" target="_blank">
+  <a href="https://my-portfolio-ashen-rho-85.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/Rajatmana">
