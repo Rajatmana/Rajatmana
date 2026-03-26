@@ -1,34 +1,41 @@
-# 👋 Hey, I'm Rajat Mana  
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rohanmaiti" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=35&center=true&vCenter=true&width=900&height=70&duration=3700&lines=Hey+there!+👋;+I'm+Rohan+Maiti.;" />
+</h1>
+<h3 align="center">A passionate software developer from India</h3>
+<hr />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Developer;AI+Enthusiast;Building+Real-World+Projects+🚀" />
-</p>
 
----
+<div align="center"> 
+  <a href="mailto:rajatmana02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/rajat-mana-46605a250/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/raa.jjaatt/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+  <a href="my-portfolio-ashen-rho-85.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/Rajatmana">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge" />
+  </a>
+</div>
+<hr />
 
-## 🧠 About Me  
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br />
 
-🚀 Full-Stack Developer | MERN Stack Learner | AI Explorer  
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,expressjs,mongodb,mysql,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=c,c#,cpp,java,python,.net,linux,git,github,postman,vscode,aws,docker" />
+    <br />
+</div>
 
-💡 I build **real-world scalable web applications** and integrate **AI features**  
-🌍 Based in **India**  
-⚡ Passionate about **coding, problem-solving & freelancing**  
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Frontend  
-⚛️ React.js | 🟨 JavaScript | 🌐 HTML5 | 🎨 CSS3 | 💨 Tailwind CSS  
-
-### ⚙️ Backend  
-🟢 Node.js | 🚂 Express.js  
-
-### 🗄️ Database  
-🍃 MongoDB | 🗃️ SQL  
-
-### 🤖 AI & Tools  
-🧠 Gemini API | 🔧 Git | 🐙 GitHub | 📬 Postman  
+<br />
+<hr />
 
 ---
 
